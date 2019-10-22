@@ -1,0 +1,47 @@
+
+
+#det_proj{
+
+height:600px;
+margin: 0 auto;
+width: 80%;
+margin-top:200px;
+
+
+
+}   
+   #det_img{
+    background-color: yellow;
+    width:59%;
+    height:100%;
+    border: 6px black solid;
+    float: left;
+
+
+
+}
+#det_img img{
+    width:300px;
+
+}
+
+#det_text p{
+    font-family: 'Courier New Italic', arial;
+    padding:8%;
+
+}
+#det_text{
+    width:38%;
+    background-color: white;
+    border-right: black 6px solid;
+    border-top: black 6px solid;
+    border-bottom: black 6px solid;
+    height:100%;
+
+
+
+}
+
+#det_img, #det_text{
+    display: inline-block;
+}
